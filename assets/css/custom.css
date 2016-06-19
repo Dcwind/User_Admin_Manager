@@ -1,0 +1,73 @@
+/* Add here all your css styles (customizations) */
+#dan #dd tr  {
+    
+    background-color: #ccff00;
+    color: blue;
+}
+
+/* #textc  {
+    background-color: aquamarine;
+}  */
+ #dashed {
+     border-style: dashed;
+     border-color:aqua;
+     border-width: 2px;
+}
+/* padding for logo @login.php */
+#space {
+    padding-top: 30px;
+}
+
+/*login.php button */
+#buttonwidth{
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#reglogo{
+    padding-left: 55px;
+}
+#login{
+    padding-bottom: 250px;
+}
+
+footer {
+    text-align: center;
+    border-top-style: solid;
+    border-top-color: grey;
+    border-width: 3px;
+    padding-top: 10px;
+}
+
+#regbutton {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#regdiv {
+    padding-bottom: 130px;
+}
+
+.row .list-row block-grid-1 li {
+    text-align: left; 
+    background-color: 
+}
+
+#fund {
+   background-color: #f2f2f2
+}
+
+.row .list-row block-grid-2 li {
+    text-align: right;    
+}
+
+.row .col-md-6 .list-row block-block-grid-1 li {
+    background-color: aqua
+}
+
+.list-row {
+    text-align: left;
+}
+
