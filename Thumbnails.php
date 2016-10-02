@@ -5,6 +5,7 @@ $CUSTOMERSID = $_GET['id'];
 $query = "SELECT * FROM customers WHERE CustomersID = $CUSTOMERSID";
 $result = mysql_query($query);
 $result_arr = mysql_fetch_array($result);
+// query db and store data in variable
 
 if(!isset($_POST['submit']))
 {
