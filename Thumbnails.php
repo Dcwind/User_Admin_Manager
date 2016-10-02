@@ -78,7 +78,7 @@ if(!isset($_POST['submit']))
 											<span class="overlay-zoom">
 												<div class="caption">
 													<center><h3>Address Information</h3></center>
-												
+								<!-- 						display data from db						 -->
 													<div class="funny-boxes funny-boxes-top-sea">
 														<p><b>First Name:</b>   <small><?php echo $result_arr['FirstName'];?></small></p>
 														<p><b>Last Name:</b>    <small><?php echo $result_arr['LastName'];?></small></p>
